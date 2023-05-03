@@ -12,7 +12,7 @@ The app is used primary to demonstrate **FlexColorScheme** and **Riverpod** conc
 
 ### Source and Web Version
 
-The source code for the **ThemeDemo** application can be found in the GitHub repo [**github.com/rydmike/theme_demo**](https://github.com/rydmike/theme_demo). 
+The source code for the **ThemeDemo** application can be found in the GitHub repo [**github.com/whale-watching/flutter_demo**](https://github.com/whale-watching/flutter_demo). 
 
 You can try a live WEB version of the **ThemeDemo** application here [**www.rydmike/themedemo**](https://rydmike.com/themedemo).
 
@@ -69,7 +69,7 @@ It also shows how simple it is to make small UI theme control widgets that can b
 
 | Home Screen 3/4                                                                                     | Home Screen 4/4                                                                                     |
 |-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| <img src="https://github.com/rydmike/theme_demo/blob/master/resources/Screen03-Home.png?raw=true"/> | <img src="https://github.com/rydmike/theme_demo/blob/master/resources/Screen04-Home.png?raw=true"/> |
+| <img src="https://github.com/whale-watching/flutter_demo/blob/master/resources/Screen03-Home.png?raw=true"/> | <img src="https://github.com/whale-watching/flutter_demo/blob/master/resources/Screen04-Home.png?raw=true"/> |
 
 ## Used `MaterialApp`
 
@@ -1215,7 +1215,7 @@ flutter:   New value : ThemeData#667cc
 
 As a result, we got a totally new theme that came from whatever settings had been previously stored in the local Shared Preferences storage. It could have been app defaults too if it had never been used before on this device.
 
-<img src="https://github.com/rydmike/theme_demo/blob/master/resources/observer06.png?raw=true" alt="Observer step 6" width="350"/>
+<img src="https://github.com/whale-watching/flutter_demo/blob/master/resources/observer06.png?raw=true" alt="Observer step 6" width="350"/>
 
 This is honestly pretty cool and handy stuff, and kind of hyper reactive in a very nice "everything is connected" way. 
 
@@ -1229,8 +1229,8 @@ To learn more about what **FlexColorScheme** does with all the properties we use
 
 ## Questions?
 
-If there is anything in this additional stand-alone **FlexColorScheme** with **Riverpod** tutorial **ThemeDemo** app, that you would like further explanations and insights on, or maybe just to discuss the ThemeDemo app in general. Then you are welcome to ask your questions and add comments in the repo [Discussions](https://github.com/rydmike/theme_demo/discussions). I might extend this readme to clarify any frequent questions, or answer your questions directly in the discussions.
+If there is anything in this additional stand-alone **FlexColorScheme** with **Riverpod** tutorial **ThemeDemo** app, that you would like further explanations and insights on, or maybe just to discuss the ThemeDemo app in general. Then you are welcome to ask your questions and add comments in the repo [Discussions](https://github.com/whale-watching/flutter_demo/discussions). I might extend this readme to clarify any frequent questions, or answer your questions directly in the discussions.
 
 | Theme Showcase 1/2                                                                                   | Theme Showcase 2/2                                                                                   |
 |------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-| <img src="https://github.com/rydmike/theme_demo/blob/master/resources/Screen09-Show1.png?raw=true"/> | <img src="https://github.com/rydmike/theme_demo/blob/master/resources/Screen10-Show2.png?raw=true"/> |
+| <img src="https://github.com/whale-watching/flutter_demo/blob/master/resources/Screen09-Show1.png?raw=true"/> | <img src="https://github.com/whale-watching/flutter_demo/blob/master/resources/Screen10-Show2.png?raw=true"/> |
